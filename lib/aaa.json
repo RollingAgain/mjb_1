@@ -1,7 +1,7 @@
 {
     "code": 0,
     "data": {
-        "isWap": 0,
+        "isWap": 1,
         "wapUrl": "https://www.baidu.com/",
         "version": 0,
         "downloadUrl": ""
