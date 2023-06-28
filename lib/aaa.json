@@ -1,0 +1,10 @@
+{
+    "code": 0,
+    "data": {
+        "isWap": 0,
+        "wapUrl": "https://www.baidu.com/",
+        "version": 0,
+        "downloadUrl": ""
+    },
+    "msg": "success"
+}
